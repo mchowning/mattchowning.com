@@ -3,17 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mchowning.github.io/categories/</loc>
+    <loc>http://mattchowning.com/about/</loc>
+    <lastmod>2017-12-28T23:05:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mattchowning.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mchowning.github.io/</loc>
+    <loc>http://mattchowning.com/</loc>
+    <lastmod>2017-12-28T23:05:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mchowning.github.io/tags/</loc>
+    <loc>http://mattchowning.com/tags/</loc>
     <priority>0</priority>
   </url>
   

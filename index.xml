@@ -2,13 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matt Chowning</title>
-    <link>https://mchowning.github.io/</link>
+    <link>http://mattchowning.com/</link>
     <description>Recent content on Matt Chowning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Thu, 28 Dec 2017 23:05:24 -0500</lastBuildDate>
     
-	<atom:link href="https://mchowning.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mattchowning.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://mattchowning.com/about/</link>
+      <pubDate>Thu, 28 Dec 2017 23:05:24 -0500</pubDate>
+      
+      <guid>http://mattchowning.com/about/</guid>
+      <description>I enjoy spending my days doing Android Development at General Motors and in my free time I have fun working on neural networks and functional programming (Haskell bing my drug of choice).
+Programming is a second career for me. I studied law at the Univerity of Michigan and practiced for 8 years as a judicial law clerk, Assistant Prosecuting Attorney, and corporate litigator before discovering my love for programming and switching careers.</description>
+    </item>
     
   </channel>
 </rss>
