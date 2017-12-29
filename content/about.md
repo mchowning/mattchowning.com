@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2017-12-28T23:05:24-05:00
-draft: true
+draft: false
 showpagemeta: false
 ---
 
