@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Matt Chowning"
 intro = "Father Husband Developer"
-description = "I enjoy leading a talented team of Android developers by day, and by night I've been working on neural networks and functional programming lately."
+description = "Android developer, functional programming enthusiast, tennis-player, Tottenham Hotspurs fan"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
