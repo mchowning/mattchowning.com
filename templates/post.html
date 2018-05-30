@@ -1,11 +1,14 @@
+---
+layout: default
+---
 <article>
-    <section class="header">
-        Posted on $date$
-        $if(author)$
-            by $author$
-        $endif$
-    </section>
-    <section>
-        $body$
-    </section>
+  <header>
+    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+  </header>
+
+  <footer>
+    <p>Posted on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>. Tagged with: {{ page.tags | array_to_sentence_string }}.</p>
+  </footer>
+
+  {{ content }}
 </article>
