@@ -18,15 +18,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #CB004A;
+  color: #119822;
 }
 
 a {
   transition: color .1s ease-out;
 }
 
-a:hover, a:visited {
-  color: #76002B;
+a:visited:hover {
+    color: #119822;
+}
+
+a:visited, a:hover {
+    color: #00630C;
 }
 
 h1 a, h2 a {
@@ -40,7 +44,7 @@ h1 a:visited, h2 a:visited {
 }
 
 blockquote {
-  border-left: 3px solid #CB004A;
+  border-left: 3px solid #40BF50;
   margin: 5px;
   padding: 1em;
 }
@@ -49,8 +53,8 @@ hr {
   width: 90%;
   border: none;
   height: 1px;
-  background-color: #CB004A;
-  color: #CB004A;
+  background-color: #40BF50;
+  color: #40BF50;
 }
 
 pre, code {
@@ -129,6 +133,14 @@ header nav ul li {
 #social ul li {
     display: inline;
     margin: 0 0.1em;
+}
+
+#social ul li a:visited {
+    color: #119822;
+}
+
+#social ul li a:hover {
+    color: #00630C;
 }
 
 body > footer {
