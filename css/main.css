@@ -135,12 +135,17 @@ header nav ul li {
     margin: 0 0.1em;
 }
 
+#social ul li a {
+    color: #4A4A4A;
+}
+
 #social ul li a:visited {
-    color: #119822;
+    /* color: #119822; */
 }
 
 #social ul li a:hover {
-    color: #00630C;
+    /* color: #00630C; */
+    color: #119822;
 }
 
 body > footer {
