@@ -33,6 +33,10 @@ a:visited, a:hover {
     color: #00630C;
 }
 
+h1 a:visited:hover {
+    color: #4A4A4A;
+}
+
 h1 a, h2 a {
   color: #4A4A4A;
   text-decoration: none;
