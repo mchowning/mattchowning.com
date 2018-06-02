@@ -136,16 +136,14 @@ header nav ul li {
 }
 
 #social ul li a {
-    color: #4A4A4A;
+    color: #119822;
 }
 
 #social ul li a:visited {
-    /* color: #119822; */
 }
 
 #social ul li a:hover {
-    /* color: #00630C; */
-    color: #119822;
+    color: #00630C;
 }
 
 body > footer {
